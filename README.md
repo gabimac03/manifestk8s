@@ -34,8 +34,7 @@ Tus carpetas se deben ver algo así, podemos organizarlas más todavía si quere
 │        └── pvc.yaml
 │        └── pv.yaml
 └── static-website
-    ├── index.html
-    └── style.css
+    ├── static-web.html
 ```
 
 ## 2️⃣ Despliegue de Página Web Estática en Minikube
